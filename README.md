@@ -1,2 +1,2 @@
 # Sample
-hi this is my first git repository
+hi this is my first git repository...
